@@ -1,0 +1,7 @@
+*.jpg *.jpeg *.png *.gif *.webp *.ico
+/storage/
+/public_html/uploads/
+/public_html/images/
+.htaccess *.log *.sql *.bak
+google*.html yandex_*.html
+/public_ftp/
